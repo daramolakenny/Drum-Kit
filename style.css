@@ -1,0 +1,31 @@
+.drum{
+    width: 10rem;
+    height: 8rem;
+    color: #fff;
+    font-size: 50px;
+    
+}
+
+.w{
+    background-image: url("asset/tom3.png");
+}
+.s{
+    color: #000;
+    background-image: url("asset/snare.png");
+}
+.a{
+    background-image: url("asset/tom1.png");
+}
+.d{
+    background-image: url("asset/tom2.png");
+}
+.j{
+    color: #000;
+    background-image: url("asset/crash.png");
+}
+.k{
+    background-image: url("asset/kick.png");
+}
+.l{
+    background-image: url("asset/tom4.png");
+}
